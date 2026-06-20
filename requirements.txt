@@ -1,3 +1,10 @@
-Flask==3.0.0
-gunicorn==21.2.0
-python-dotenv==1.0.0
+Flask==3.1.2
+gunicorn==23.0.0
+python-dotenv==1.2.2
+pandas==2.3.3
+matplotlib==3.10.8
+numpy==2.2.6
+openpyxl==3.1.5
+flask-cors==6.0.2
+pillow==12.1.1
+scipy==1.15.3
